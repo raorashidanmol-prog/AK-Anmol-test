@@ -1,0 +1,10 @@
+{
+  "name": "Copy of Anmol AK Test",
+  "description": "An interactive AI-powered platform for primary school teachers to generate tests from book photos and students to practice with timed quizzes.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

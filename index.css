@@ -1,0 +1,9 @@
+/* Custom animations and styling */
+@keyframes shimmer {
+  0% { transform: translateX(-200%) skewX(-20deg); }
+  100% { transform: translateX(200%) skewX(-20deg); }
+}
+
+.animate-shimmer {
+  animation: shimmer 3s infinite linear;
+}
